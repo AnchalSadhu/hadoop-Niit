@@ -34,9 +34,9 @@ show_menu()
 
     echo -e "${MENU}**${NUMBER} 8) ${MENU} Find the most popular top 10 job positions for H1B visa applications for each year? (for only certified applications)${NORMAL}"
 
-    echo -e "${MENU}**${NUMBER} 9)   ${MENU} Find the percentage and the count of each case status on total applications for each year. Create a graph depicting the pattern of All the cases over the period of time.${NORMAL}"
+    echo -e "${MENU}**${NUMBER} 9) ${MENU} Find the percentage and the count of each case status on total applications for each year. Create a graph depicting the pattern of All the cases over the period of time.${NORMAL}"
  
-    echo -e "${MENU}**${NUMBER} 10)   ${MENU} Create a bar graph to depict the number of applications for each year${NORMAL}"
+    echo -e "${MENU}**${NUMBER} 10) ${MENU} Create a bar graph to depict the number of applications for each year${NORMAL}"
 
     echo -e "${MENU}**${NUMBER} 11)   ${MENU}Find the average Prevailing Wage for each Job for each Year (take part time and full time separate) arrange output in descending order${NORMAL}"
 
